@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 archivo.mp3 filter=lfs diff=lfs merge=lfs -text
+VeryLongSong.mp3 filter=lfs diff=lfs merge=lfs -text
